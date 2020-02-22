@@ -1,4 +1,4 @@
-# Main point about this project
+# Main points about this project
 
 - PWA
 - Hosted on Firebase
